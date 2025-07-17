@@ -1,4 +1,24 @@
-"scripts": {
-  "start": "node index.js",
-  "dev": "nodemon index.js"
+{
+  "name": "week-2-express-js-assignment-ganglittle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Ganglittle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Ganglittle/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-Ganglittle#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  }
 }
